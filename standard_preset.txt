@@ -1,0 +1,11 @@
+7-DAY MENU
+M: Eggs,Omelet | Pho,PanTomate | Coq au Vin,Ratatouille
+T: VegOmelet,B.Tieu | BunCha,CucSalad | Paella,Caprese
+W: HotDog,Steak | ComTam,RauMuong | Lasagna,Pizza
+Th: B.Cuon,B.Khot | BunBo,GoiCuon | Bourguignon,Gratin
+F: YorkPud,Affogato | BunRieu,B.Xeo | Bolognese,Caesar
+Sa: B.Gio,B.Trang | ComGa,CanhChua | SteakFrite,Salmon
+Su: B.Mi,Burger | HuTieu,ChaCa | ThitKho,BoLucLac
+
+GROCERIES(g):
+Beef:3760,Veg:3150,Sea:2530,Pork:2450,Tom:2260,Broth:2250,Verm:1900,Pot:1800,Cheese:1465,Onion:1460,Oil:1430,Wine:1375,Chic:1100,Egg:1050,BBone:1000,RBatter:800,Pasta:700,Bread:605,PBone:500,RNoodle:500,CWater:500,Flour:460,TSauce:450,Mush:430,Cream:400,Dough:400,Tapioca:400,BRice:300,JRice:300,RFlour:280,Butter:270,Milk:260,FSauce:230,Pine:200,RPaper:200,Tofu:200,IceC:200,Garlic:145,Sug:125,Coffee:120,Vin:105,Baget:100,CornS:100,Meatloaf:100,DipS:100,CMilk:100,WoodEar:80,Tam:60,CCream:50,VHam:50,Lem:50,ChiliOil:45,Turm:40,ShrimpP:35,Pate:30

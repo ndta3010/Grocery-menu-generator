@@ -1,0 +1,75 @@
+Coq au Vin: chicken - 800, wine - 500, pork - 150, mushroom - 200, vegetable - 200, onion - 150, garlic - 15, spice - 6, butter - 30
+Risotto ai Funghi: rice - 300, mushroom - 300, onion - 100, garlic - 10, butter - 40, oil - 30, cheese - 70, wine - 100, broth - 800
+Seafood Paella: rice - 300, seafood - 850, tomato - 200, garlic - 15, oil - 45, chili - 1, broth - 800, vegetable - 150
+Pastitsio: pasta - 350, beef - 500, onion - 100, garlic - 10, tomato sauce - 400, spice - 1, milk - 400, butter - 40, flour - 40, cheese - 80
+Chicken Paprikash: chicken - 800, onion - 200, garlic - 10, paprika - 30, tomato - 200, sour cream - 200, flour - 15, oil - 30, broth - 500
+Ratatouille: vegetable - 750, tomato - 300, onion - 100, garlic - 15, oil - 45, spice - 5, salt - 5
+Arancini: rice - 400, cheese - 190, flour - 60, egg - 100, bread - 120, oil - 500, tomato sauce - 200
+Bigos: vegetable - 800, pork - 600, onion - 100, garlic - 10, tomato sauce - 30, spice - 2, oil - 30
+Kartoffelsalat: potato - 800, onion - 100, pork - 120, vinegar - 45, mustard - 15, sugar - 5, spice - 15, oil - 30
+Yorkshire Pudding: flour - 150, egg - 150, milk - 200, beef - 50, salt - 2, pepper - 2, oil - 15
+Spaghetti Carbonara: pasta - 300, egg - 150, pork - 150, cheese - 80, pepper - 5
+Steak Frites: beef - 600, potato - 800, butter - 40, oil - 500, salt - 5
+Souvlaki: pork - 600, oil - 45, lemon - 50, garlic - 10, spice - 5
+Frikadeller: pork - 600, egg - 50, milk - 150, flour - 60, onion - 100, butter - 30
+Margherita Pizza: dough - 400, tomato sauce - 250, cheese - 250, basil - 5, oil - 30
+Colcannon: potato - 800, vegetable - 200, butter - 50, milk - 150, salt - 5
+Caprese Salad: tomato - 300, cheese - 250, basil - 5, oil - 30, salt - 2
+Patatas Bravas: potato - 800, oil - 500, paprika - 5, tomato sauce - 200, garlic - 10
+Gratin Dauphinois: potato - 1000, cream - 400, garlic - 10, butter - 40, salt - 5
+Cucumber Salad: vegetable - 300, vinegar - 45, sugar - 15, salt - 2, spice - 15
+Cacio e Pepe: pasta - 300, cheese - 120, pepper - 5
+Bratwurst: pork - 600, mustard - 45
+Cheese Fondue: cheese - 400, wine - 200, garlic - 5
+Gravlax: seafood - 500, salt - 45, sugar - 30
+Prosciutto e Melone: pork - 150, cantaloupe - 500
+French Omelette: egg - 200, butter - 20, salt - 2
+Pan con Tomate: bread - 120, tomato - 200, oil - 30
+Affogato: ice cream - 200, coffee - 120
+Moules Marinieres: seafood - 1000, wine - 200, butter - 40
+Pao com Chourico: dough - 400, pork - 200
+Spaghetti Aglio e Olio: pasta - 100, garlic - 15, oil - 30, chili - 2
+Pan-Seared Steak: beef - 250, butter - 20, salt - 2, pepper - 2
+Poached Eggs on Toast: egg - 100, bread - 40, salt - 2, pepper - 2
+Baked Potato: potato - 250, butter - 30, salt - 2
+Caesar Salad: vegetable - 400, bread - 45, oil - 190, cheese - 100, egg - 100
+Tomato Soup: tomato - 800, broth - 750, cream - 250, oil - 30, garlic - 5
+Roasted Salmon with Asparagus: seafood - 180, vegetable - 100, lemon - 50, oil - 30, butter - 60, salt - 2, pepper - 2
+Herb-Roasted Chicken: chicken - 250, spice - 10, salt - 5, pepper - 5, butter - 45, lemon - 50, potato - 500
+Hot Dog: bread - 80, pork - 100, onion - 100, vegetable - 30
+Vegetable Omelette: egg - 100, vegetable - 50, onion - 20, cheese - 30, mushroom - 30
+Deluxe Hamburger: bread - 320, beef - 400, cheese - 80, tomato - 60, onion - 200, butter - 15, vegetable - 20
+Spaghetti Bolognese: pasta - 400, beef - 500, tomato - 800, onion - 200, garlic - 10, vegetable - 80, wine - 125, oil - 15
+Beef Bourguignon: beef - 800, wine - 750, mushroom - 200, onion - 160, vegetable - 200, pork - 150, broth - 750, butter - 50, flour - 60, spice - 5
+Lasagna: pasta - 300, beef - 340, tomato sauce - 200, cheese - 755, onion - 200, milk - 60
+Supreme Pizza: dough - 170, pork - 28, tomato sauce - 30, cheese - 57, vegetable - 44, onion - 28, mushroom - 60, flour - 12
+Phở Bò: rice noodles - 500, beef - 400, beef bones - 1000, onion - 50, ginger - 50, star anise - 5, cinnamon - 3, cardamom - 2, fish sauce - 45
+Bún Bò Huế: rice vermicelli - 500, beef - 300, pork - 300, lemongrass - 50, shrimp paste - 30, chili oil - 30, pineapple - 100
+Bún Riêu Cua: rice vermicelli - 500, seafood - 250, pork - 100, tomato - 300, tofu - 200, tamarind - 15
+Hủ Tiếu Nam Vang: tapioca noodles - 400, pork bones - 500, seafood - 100, pork - 100, egg - 60, garlic - 10, chives - 10
+Mi Quảng: turmeric rice noodles - 400, pork - 200, seafood - 100, peanut - 30, rice cracker - 50, turmeric - 5, herb - 50
+Cơm Tấm Sườn Nướng: broken rice - 300, pork - 300, lemongrass - 15, garlic - 15, honey - 15, soy sauce - 15, carrot - 25, daikon - 25, egg meatloaf - 100
+Cơm Gà Hội An: jasmine rice - 300, chicken - 300, vietnamese coriander - 50, onion - 50, lime juice - 15, broth - 100
+Cơm Chiên Dương Châu: rice - 400, chinese sausage - 100, seafood - 100, pea - 25, carrot - 25, egg - 100, onion - 10
+Bánh Mì Thịt: baguette - 100, pate - 30, vietnamese ham - 50, carrot - 15, daikon - 15, cucumber - 10, cilantro - 10, mayonnaise - 15
+Bánh Xèo: rice flour - 180, turmeric - 20, coconut milk - 100, pork - 100, seafood - 50, bean sprouts - 100, mung bean - 30
+Bánh Cuốn: rice batter - 500, pork - 150, wood ear mushroom - 50, shallot - 30, dipping sauce - 100
+Gỏi Cuốn: rice paper - 100, seafood - 100, pork - 100, rice vermicelli - 100, chives - 25, lettuce - 25
+Bánh Khọt: rice batter - 300, seafood - 100, coconut cream - 50, green onion - 30, turmeric - 5
+Bánh Giò: rice flour - 100, corn starch - 100, broth - 600, pork - 150, wood ear mushroom - 30
+Bánh Tráng Trộn: rice paper - 100, green mango - 50, beef - 20, egg - 40, tamarind - 15, chili oil - 15
+Cá Kho Tộ: seafood - 500, pork - 50, caramel sauce - 30, fish sauce - 60, pepper - 3, chili - 2
+Thịt Kho Tàu: pork - 500, egg - 250, coconut water - 500, fish sauce - 45, garlic - 15, shallot - 15
+Canh Chua Cá: seafood - 300, pineapple - 100, tomato - 100, okra - 50, bean sprouts - 50, tamarind - 30, herb - 10
+Chả Cá Lã Vọng: seafood - 500, galangal - 15, turmeric - 15, shrimp paste - 5, dill - 50, spring onion - 20
+Bún Chả: pork - 400, papaya - 30, kohlrabi - 20, fish sauce - 40, vinegar - 30, sugar - 30, rice vermicelli - 400
+Gà Kho Sả Ớt: chicken - 500, lemongrass - 30, chili - 5, turmeric - 5, fish sauce - 30
+Bò Lúc Lắc: beef - 400, soy sauce - 15, oyster sauce - 15, garlic - 15, butter - 15, onion - 100, bell pepper - 100
+Rau Muống Xào Tỏi: water spinach - 500, garlic - 25, oyster sauce - 15, oil - 30
+Bún Đậu Mắm Tôm: rice vermicelli - 400, tofu - 200, pork - 200, shrimp paste - 45, kumquat juice - 10, sugar - 10
+Bánh Chưng: glutinous rice - 1000, mung bean - 400, pork - 500, pepper - 15
+Chả Giò: rice paper - 150, pork - 300, glass noodles - 50, wood ear mushroom - 20, carrot - 50, jicama - 50, egg - 50
+Bánh Tiêu: flour - 250, yeast - 5, sugar - 50, sesame - 30, oil - 500
+Chè Thái: jackfruit - 50, longan - 50, jelly - 100, coconut milk - 200, condensed milk - 30, water chestnut - 50
+Bò Kho: beef - 500, carrot - 200, lemongrass - 30, star anise - 3, cinnamon - 2, tomato paste - 30
+Lẩu Thả: seafood - 300, pork - 100, cucumber - 50, mango - 50, egg - 100, peanut sauce - 100
